@@ -195,8 +195,8 @@ a {
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
-    letter-spacing: 0.25px font-color: #000000DE;
-
+    letter-spacing: 0.25px;
+    font-color: #000000DE;
 }
 
 .information__item__divider {
@@ -219,3 +219,4 @@ a {
         display: flex;
         justify-content: center;
     }
+}
